@@ -1,4 +1,4 @@
-# 51la-Analysis-Typecho-Plugin
+# Typecho-Plugin-51la-Analysis
 
 Typecho plugin for 51la Analysis V6 https://github.com/51la/51la-Analysis-Typecho-Plugin
 
@@ -11,7 +11,7 @@ Typecho plugin for 51la Analysis V6 https://github.com/51la/51la-Analysis-Typech
 高级设置：`事件分析`和`单页面应用上报(Vue/React...)`
 ## 安装(必看！！！)
 
-Download ZIP, 解压，将 `51la-Analysis-Typecho-Plugin` 重命名为 `LaAnalysis` ，之后上传到你博客中的 /usr/plugins 目录，在后台启用并填入对应 MaskID 即可。
+Download ZIP, 解压，将 `Typecho-Plugin-51la-Analysis` 重命名为 `LaAnalysis` ，之后上传到你博客中的 /usr/plugins 目录，在后台启用并填入对应 MaskID 即可。
 
 ## 联系我们
 
